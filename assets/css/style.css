@@ -1,0 +1,33 @@
+.red {
+	background: white;
+	
+	
+}
+
+body {
+	background: red;
+}
+
+#maincontainer{
+	background: #0081cb;
+	margin-top: 100px;
+	margin-bottom: 50px;
+	height: 950px;
+}
+
+h1 {
+	text-align: center;
+	margin-top: 20px;
+	color: white;
+}
+
+form {
+	margin-left: 50px;
+	color: white;
+}
+
+input[type='submit'] {
+	background: white;
+	border: 2;
+	color: black;
+}
